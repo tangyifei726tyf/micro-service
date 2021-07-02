@@ -29,7 +29,7 @@
         <mybatis.spring.boot>2.0.1</mybatis.spring.boot>
         <mysql-connector>5.1.40</mysql-connector>
         <druid.version>1.1.4</druid.version>
-        <elastic.version>5.6.3</elastic.version>
+        <elastic.version>6.8.15</elastic.version>
         <commons.lang3.version>3.5</commons.lang3.version>
         <commons.collections4.version>4.0</commons.collections4.version>
         <commons.io.version>2.5</commons.io.version>
